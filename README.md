@@ -17,17 +17,21 @@
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isabelamendesx&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ### Main skills:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+<p align="center">
+  <a href="cs, dotnet, visualstudio, postgres, sqlite, git, github,githubactions,gitlab,java, arduino, vscode,  bash">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,sqlite,git,github,gitlab,linux,c,java,cpp,vscode,bash,arduino&perline=10" />
+  </a>
+</p>
+
+---
 
 ### Studying in this moment:
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white);
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
+<p align="center">
+  <a href="cs, dotnet, d">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,azure,&perline=10" />
+  </a>
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
